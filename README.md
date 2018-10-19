@@ -1,0 +1,2 @@
+# BazaPG
+BazaDanych Uczelnia GD
